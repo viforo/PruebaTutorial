@@ -3,6 +3,9 @@ Victor Forés Rosell
 
 EXAMEN 1A EVALUACIÓN
 
+Nombre: Victor
+Apellidos: Forés Rosell
+
 1.	Crea un repositorio en git llamado 1evalexam. Conéctalo con un repositorio en Github con el mismo nombre.
 2.	Inicializa el repositorio con un readme.txt donde en su interior figure tu nombre y apellidos.
 3.	Sube los cambios tanto en local como en Github.
