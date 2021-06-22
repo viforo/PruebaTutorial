@@ -25,3 +25,6 @@ Apellidos: Forés Rosell
 17.	Estando en master de 1evalexam modifica el readme donde anotes la hora actual (comitea).
 18.	Cambia al repo Clonexam y sin hacer nada más, modifica el fichero readme donde anotes el día/mes/año.
 19.	Haz lo pertinente para subir los cambios a Github y mantener ambos repositorios actualizados integrando ambas modificaciones del readme.
+
+
+ENUNCIADO BASH
